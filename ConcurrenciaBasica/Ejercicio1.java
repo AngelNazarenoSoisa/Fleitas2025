@@ -1,5 +1,4 @@
 package concurrencia;
-
 public class MiThread extends Thread{
 	   @Override
 	   public void run() {
